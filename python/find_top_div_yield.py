@@ -1,3 +1,9 @@
+# Author: Tom Oter
+#
+# Program for finding the highest Dividend Yield 
+# 
+
+
 import yfinance as yf
 import pandas as pd
 import yaml
